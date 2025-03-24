@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\SBB4\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+624736597.index
+1502183351.index
+1044872043.index
+901182237.index
+199992928.index
+1916973710.index

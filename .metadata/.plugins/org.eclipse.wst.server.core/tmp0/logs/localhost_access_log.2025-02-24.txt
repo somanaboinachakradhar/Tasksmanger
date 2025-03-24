@@ -1,0 +1,17 @@
+127.0.0.1 - - [24/Feb/2025:15:56:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:15:56:21 +0530] "GET /sbb4_todo/ HTTP/1.1" 200 1009
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:15:56:21 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:15:57:10 +0530] "POST /sbb4_todo/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:15:57:10 +0530] "GET /sbb4_todo/Register.html HTTP/1.1" 200 1009
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:15:58:36 +0530] "POST /sbb4_todo/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:15:58:36 +0530] "GET /sbb4_todo/Register.html HTTP/1.1" 304 -
+127.0.0.1 - - [24/Feb/2025:16:04:29 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:16:04:30 +0530] "GET /sbb4_todo/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:16:05:05 +0530] "POST /sbb4_todo/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:16:05:06 +0530] "GET /sbb4_todo/Login.jsp HTTP/1.1" 200 782
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:16:05:19 +0530] "POST /sbb4_todo/LoginServlet HTTP/1.1" 200 801
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:16:05:40 +0530] "POST /sbb4_todo/LoginServlet HTTP/1.1" 200 801
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:16:05:44 +0530] "GET /sbb4_todo/Register.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:16:06:08 +0530] "POST /sbb4_todo/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:16:06:08 +0530] "GET /sbb4_todo/Login.jsp HTTP/1.1" 200 782
+0:0:0:0:0:0:0:1 - - [24/Feb/2025:16:06:20 +0530] "POST /sbb4_todo/LoginServlet HTTP/1.1" 200 801

@@ -1,0 +1,9 @@
+127.0.0.1 - - [03/Mar/2025:15:03:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [03/Mar/2025:15:03:38 +0530] "GET /sbb4_todo/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Mar/2025:15:03:38 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [03/Mar/2025:15:04:17 +0530] "POST /sbb4_todo/RegisterServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Mar/2025:15:04:17 +0530] "GET /sbb4_todo/Login.jsp HTTP/1.1" 200 782
+0:0:0:0:0:0:0:1 - - [03/Mar/2025:15:04:29 +0530] "POST /sbb4_todo/LoginServlet HTTP/1.1" 404 739
+0:0:0:0:0:0:0:1 - - [03/Mar/2025:15:04:58 +0530] "POST /sbb4_todo/LoginServlet HTTP/1.1" 404 739
+0:0:0:0:0:0:0:1 - - [03/Mar/2025:15:06:14 +0530] "POST /sbb4_todo/LoginServlet HTTP/1.1" 200 1165
+0:0:0:0:0:0:0:1 - - [03/Mar/2025:15:06:28 +0530] "POST /sbb4_todo/AddTaskServlet HTTP/1.1" 200 1352

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sbb4_todo/src/main/webapp/VeiwTasks.jsp&apos; to &apos;ViewTasks.jsp&apos;" description="Rename resource &apos;VeiwTasks.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/VeiwTasks.jsp" name="ViewTasks.jsp" stamp="1740994566838" updateReferences="true"/>
+</session>
